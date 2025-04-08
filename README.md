@@ -6,3 +6,5 @@ tipos de servidores ONpremisse, Ambiente Cloud e hibrido, diferenças entre Regi
 avaliação de custos entre funcionamento CApex e OpEx
 Beneficios relacioandas a Escalabilidade, Elasticidade, Confiabilidade, Previsibilidade, Segurança, Governança e Gerenciabilidade do ambiente Cloud
 entre outros topicos relacionados a SLA, estudo de custo etc.
+um breve resumo sobre criação de máquinas virtuais 
+diferenciação de Iaas, Paas e Saas, onde foi apontado sobre a necessaidade de definição das necessidades da empresa para dimencionar o ambiente a ser utilizado
