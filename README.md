@@ -8,3 +8,12 @@ Beneficios relacioandas a Escalabilidade, Elasticidade, Confiabilidade, Previsib
 entre outros topicos relacionados a SLA, estudo de custo etc.
 um breve resumo sobre criação de máquinas virtuais 
 diferenciação de Iaas, Paas e Saas, onde foi apontado sobre a necessaidade de definição das necessidades da empresa para dimencionar o ambiente a ser utilizado
+Conceitos de Identidade, Acesso e Segurança
+explicação sobre Microsoft Entra Id
+Diferença entre Autenticação e autorização e acesso
+login único (SSO)
+Autenticação multifator (MFA)
+Autenticação B2B e B2C (terceiros)
+Acesso condicional (IP, Dispositivo, Aplicativo, Localização)
+Controle de acesso baseado em função/hierarquia (RBAC)
+Modelo Confiança Zero
